@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
-    "build": "PUBLIC_URL='/' BUILD_PATH='./docs' react-scripts build"
+    "build": "PUBLIC_URL='https://supahfunk.github.io/biglia/' BUILD_PATH='./docs' react-scripts build"
   },
   "dependencies": {
     "@react-three/drei": "^3.10.0",

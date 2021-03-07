@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a566cc4e.chunk.css",
-    "main.js": "/static/js/main.0edff8eb.chunk.js",
-    "main.js.map": "/static/js/main.0edff8eb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e0c2956c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e0c2956c.js.map",
-    "static/js/2.8da6c19b.chunk.js": "/static/js/2.8da6c19b.chunk.js",
-    "static/js/2.8da6c19b.chunk.js.map": "/static/js/2.8da6c19b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a566cc4e.chunk.css.map": "/static/css/main.a566cc4e.chunk.css.map",
-    "static/js/2.8da6c19b.chunk.js.LICENSE.txt": "/static/js/2.8da6c19b.chunk.js.LICENSE.txt"
+    "main.css": "https://supahfunk.github.io/biglia/static/css/main.a566cc4e.chunk.css",
+    "main.js": "https://supahfunk.github.io/biglia/static/js/main.0edff8eb.chunk.js",
+    "main.js.map": "https://supahfunk.github.io/biglia/static/js/main.0edff8eb.chunk.js.map",
+    "runtime-main.js": "https://supahfunk.github.io/biglia/static/js/runtime-main.ee8b08bc.js",
+    "runtime-main.js.map": "https://supahfunk.github.io/biglia/static/js/runtime-main.ee8b08bc.js.map",
+    "static/js/2.8da6c19b.chunk.js": "https://supahfunk.github.io/biglia/static/js/2.8da6c19b.chunk.js",
+    "static/js/2.8da6c19b.chunk.js.map": "https://supahfunk.github.io/biglia/static/js/2.8da6c19b.chunk.js.map",
+    "index.html": "https://supahfunk.github.io/biglia/index.html",
+    "static/css/main.a566cc4e.chunk.css.map": "https://supahfunk.github.io/biglia/static/css/main.a566cc4e.chunk.css.map",
+    "static/js/2.8da6c19b.chunk.js.LICENSE.txt": "https://supahfunk.github.io/biglia/static/js/2.8da6c19b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0c2956c.js",
+    "static/js/runtime-main.ee8b08bc.js",
     "static/js/2.8da6c19b.chunk.js",
     "static/css/main.a566cc4e.chunk.css",
     "static/js/main.0edff8eb.chunk.js"

@@ -5,9 +5,8 @@
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
-    "build": "BUILD_PATH='./docs' react-scripts build"
+    "build": "PUBLIC_URL='/' BUILD_PATH='./docs' react-scripts build"
   },
-  "homepage": ".",
   "dependencies": {
     "@react-three/drei": "^3.10.0",
     "gsap": "^3.6.0",

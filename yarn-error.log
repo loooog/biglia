@@ -1,0 +1,41 @@
+Arguments: 
+  /usr/local/bin/node /Users/gustoids/.yarn/bin/yarn.js add react @react-three-drei react-dom react-scripts react-three-fiber three
+
+PATH: 
+  /Users/gustoids/.yarn/bin:/Users/gustoids/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Users/gustoids/.yarn/bin:/Users/gustoids/.config/yarn/global/node_modules/.bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  12.18.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@react-three-drei: Request "https://registry.yarnpkg.com/@react-three-drei" returned a 405
+      at Request.params.callback [as _callback] (/Users/gustoids/.yarn/lib/cli.js:66100:18)
+      at Request.self.callback (/Users/gustoids/.yarn/lib/cli.js:129590:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (/Users/gustoids/.yarn/lib/cli.js:130562:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (/Users/gustoids/.yarn/lib/cli.js:130484:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1221:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  {
+    "name": "biglia",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

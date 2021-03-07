@@ -1,0 +1,25 @@
+{
+  "name": "biglia",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "BUILD_PATH='./docs' react-scripts build"
+  },
+  "dependencies": {
+    "@react-three/drei": "^3.10.0",
+    "gsap": "^3.6.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.3",
+    "react-three-fiber": "^5.3.19",
+    "three": "^0.126.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

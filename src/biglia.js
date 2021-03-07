@@ -10,7 +10,7 @@ export default function Biglia() {
   const $petals = useRef()
   const $shadow = useRef()
   const $material = useRef()
-  const [textureShadow, textureMap] = useTexture(["./shadow.png", "./texture.jpg"])
+  const [textureShadow, textureMap] = useTexture(["https://supahfunk.github.io/biglia/shadow.png", "https://supahfunk.github.io/biglia/texture.jpg"])
   let isAnimating = false
 
   const colors = {
